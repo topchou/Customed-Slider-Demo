@@ -1,6 +1,6 @@
 # Customed-Slider-Demo
 
-This app customize a slider view, using a spring animation to demonstrates a similar physical spring effect.
+This app customize a slider view, using a spring animation to demonstrate a similar physical spring effect.
 https://developer.android.com/guide/topics/graphics/spring-animation.
 
 Here, it's the demo. The code I keep in private.
